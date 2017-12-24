@@ -1,0 +1,32 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.testApp"
+        },
+        "cordova-plugin-ionic-webview": {
+            "PACKAGE_NAME": "com.testApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.testApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.testApp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.testApp"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "196203294285965",
+            "APP_NAME": "TestApp",
+            "PACKAGE_NAME": "com.testApp"
+        }
+    },
+    "dependent_plugins": {}
+}
